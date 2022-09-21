@@ -2,7 +2,7 @@
 
 ## Projeto React.js
 
-A proposta deste projeto é criar um website utilizando a biblioteca React JS, realizando integrações com a APIs ViaCep/IBGE.
+A proposta deste projeto é criar um website utilizando a biblioteca React JS, realizando integrações com as APIs ViaCep/IBGE.
 
 **Dependências do projeto:**
 
