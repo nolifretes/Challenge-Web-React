@@ -56,9 +56,11 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
   
 ## API GitHub
 
-- APIs para consumo:  
-  ViaCEP - https://viacep.com.br/. 
-  IBGE - https://servicodados.ibge.gov.br/api/docs/localidades. 
+- APIs para consumo: 
+ 
+  ViaCEP - https://viacep.com.br/ 
+  
+  IBGE - https://servicodados.ibge.gov.br/api/docs/localidades
 
 
 ## Entrega
