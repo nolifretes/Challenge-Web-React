@@ -31,13 +31,17 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 - Quando a busca for realizada seus dados deverão ser exibidos em uma modal
 - Validações.  
   1 - O botão de pesquisa deverá ficar desativo caso o campo conter letras. 
+  
   2 - O botão de pesquisa deverá ficar desativo caso o campo estiver vazio. 
 
 ### Página de buscar CEP por endereço
  - Deverá conter 3 campos. 
   1 - Selecionar um estado.  
-  2 - Selecionar um município (de acordo com o estado selecionado).   
+  
+  2 - Selecionar um município (de acordo com o estado selecionado). 
+  
   3 - Selecionar um logradouro (de acordo com o município selecionado).  
+  
 - Deverá conter um botão para realizar a busca. 
 - Deverá conter um botão para voltar a página inicial. 
 - Quando a busca for realizada seus dados deverão ser exibidos em uma modal. 
