@@ -19,9 +19,9 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 
 ### Página inicial
 
-- Possuir dois botões com as opções do sistema incluindo uma mensagem de boas vindas.
-  1 - Buscar um endereço a partir de um CEP (opcional)
-  2 - Buscar um CEP a partir de um endereço (obrigatório)
+- Possuir dois botões com as opções do sistema incluindo uma mensagem de boas vindas.  
+  1 - Buscar um endereço a partir de um CEP (opcional). 
+  2 - Buscar um CEP a partir de um endereço (obrigatório). 
 
 ### Página de busca por CEP
 
@@ -29,27 +29,27 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 - Deverá conter um botão para realizar a busca
 - Deverá conter um botão para voltar a página inicial
 - Quando a busca for realizada seus dados deverão ser exibidos em uma modal
-- Validações.
-  1 - botão de pesquisa deverá ficar desativo caso o campo conter letras
-  2 - botão de pesquisa deverá ficar desativo caso o campo estiver vazio
+- Validações.  
+  1 - O botão de pesquisa deverá ficar desativo caso o campo conter letras. 
+  2 - O botão de pesquisa deverá ficar desativo caso o campo estiver vazio. 
 
 ### Página de buscar CEP por endereço
- - Deverá conter 3 campos
-  1 - Selecionar um estado
-  2 - Selecionar um município (de acordo com o estado selecionado)
-  3 - Selecionar um logradouro (de acordo com o município selecionado)
-- Deverá conter um botão para realizar a busca
-- Deverá conter um botão para voltar a página inicial
-- Quando a busca for realizada seus dados deverão ser exibidos em uma modal
-- Validações: 
-  1 - botão de pesquisa deverá ficar desativo caso algum dos campos estiver vazio
+ - Deverá conter 3 campos. 
+  1 - Selecionar um estado.  
+  2 - Selecionar um município (de acordo com o estado selecionado).   
+  3 - Selecionar um logradouro (de acordo com o município selecionado).  
+- Deverá conter um botão para realizar a busca. 
+- Deverá conter um botão para voltar a página inicial. 
+- Quando a busca for realizada seus dados deverão ser exibidos em uma modal. 
+- Validações:   
+  1 - O botão de pesquisa deverá ficar desativo caso algum dos campos estiver vazio. 
 
   
 ## API GitHub
 
-- APIs para consumo:
-  ViaCEP - https://viacep.com.br/
-  IBGE - https://servicodados.ibge.gov.br/api/docs/localidades
+- APIs para consumo:  
+  ViaCEP - https://viacep.com.br/. 
+  IBGE - https://servicodados.ibge.gov.br/api/docs/localidades. 
 
 
 ## Entrega
