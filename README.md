@@ -8,7 +8,7 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 
 * **REACT JS**: em caso de dúvidas sobre a biblioteca, utilize a documentacao oficial https://reactjs.org/
 * [Axios](https://github.com/axios/axios) - Módulo utilizado para realizar as requisições na API.
-* Sinta-se livre para utilizar qualquer biblioteca para criação de interfaces.
+* Sinta-se livre para utilizar qualquer biblioteca para criação de interfaces ou navegação.
 
 ## Layout
 
@@ -21,23 +21,23 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 
 - Possuir dois botões com as opções do sistema incluindo uma mensagem de boas vindas.  
 
-  1 - Buscar um endereço a partir de um CEP (opcional). 
+  1 - Buscar um endereço a partir de um CEP (OPCIONAL). 
   
-  2 - Buscar um CEP a partir de um endereço (obrigatório). 
+  2 - Buscar um CEP a partir de um endereço (OBRIGATÓRIO). 
 
-### Página de busca por CEP
+### Página de busca de endereço por CEP (OPCIONAL)
 
-- Deverá conter um campo para o usuário digitar o CEP
-- Deverá conter um botão para realizar a busca
-- Deverá conter um botão para voltar a página inicial
-- Quando a busca for realizada seus dados deverão ser exibidos em uma modal
+- Deverá conter um campo para o usuário digitar o CEP.
+- Deverá conter um botão para realizar a busca.
+- Deverá conter um botão para voltar a página inicial.
+- Quando a busca for realizada seus dados deverão ser exibidos em uma modal.
 - Validações.  
 
-  1 - O botão de pesquisa deverá ficar desativo caso o campo conter letras. 
+  1 - O botão de pesquisa deverá ficar inabilitado caso o campo contenha letras. 
   
-  2 - O botão de pesquisa deverá ficar desativo caso o campo estiver vazio. 
+  2 - O botão de pesquisa deverá ficar inabilitado caso o campo esteja vazio. 
 
-### Página de buscar CEP por endereço
+### Página de busca de CEP por endereço (OBRIGATÓRIO)
  - Deverá conter 3 campos. 
  
    1 - Selecionar um estado.  
@@ -48,10 +48,10 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
   
 - Deverá conter um botão para realizar a busca. 
 - Deverá conter um botão para voltar a página inicial. 
-- Quando a busca for realizada seus dados deverão ser exibidos em uma modal. 
+- Quando a busca for realizada, seus dados deverão ser exibidos em uma modal/alert. 
 - Validações:   
 
-  1 - O botão de pesquisa deverá ficar desativo caso algum dos campos estiver vazio. 
+  1 - O botão de pesquisa deverá ficar inabilitado caso algum dos campos esteja vazio. 
 
   
 ## API GitHub
@@ -65,4 +65,4 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
 
 ## Entrega
 
- Ao terminar o teste, envie um email para `desenvolvimento@nolifretes.com.br` com o titulo - DEV-REACT-TESTE contendo o link do github. 
+ Ao terminar o teste, envie um email para `desenvolvimento@nolifretes.com.br` com o titulo - DEV-REACT-CHALLENGE contendo o link do github. 
