@@ -44,7 +44,7 @@ A proposta deste projeto é criar um website utilizando a biblioteca React JS, r
   
    2 - Selecionar um município (de acordo com o estado selecionado). 
   
-   3 - Selecionar um logradouro (de acordo com o município selecionado).  
+   3 - Input com o logradouro.
   
 - Deverá conter um botão para realizar a busca. 
 - Deverá conter um botão para voltar a página inicial. 
